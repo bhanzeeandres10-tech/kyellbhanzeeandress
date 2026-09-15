@@ -30,7 +30,7 @@ jobs:
         run: flutter pub get
 
       - name: Build web app
-        run: flutter build web --release --base-href "/Quiel-projects/"
+        run: flutter build web --release --base-href "/kyellbhanzeeandress/"
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
@@ -47,4 +47,3 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
-
