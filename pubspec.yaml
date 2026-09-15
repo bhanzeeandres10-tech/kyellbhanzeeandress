@@ -1,0 +1,23 @@
+name: qrly
+description: A polished, privacy-first QR code studio built with Flutter Web.
+publish_to: none
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.5.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  mobile_scanner: ^7.4.2
+  qr_flutter: ^4.1.0
+  shared_preferences: ^2.5.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+
