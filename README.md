@@ -31,5 +31,5 @@ Camera access requires `localhost` during development or HTTPS in production.
 The included GitHub Actions workflow deploys automatically after every push to
 the `main` branch. In the repository Settings, select **Pages** and set
 **Build and deployment** to **GitHub Actions**. The published URL will be
-`https://bhanzeeandres10-tech.github.io/Quiel-projects/`.
+`https://bhanzeeandres10-tech.github.io/kyellbhanzeeandress/`.
 
