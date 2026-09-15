@@ -1,0 +1,13 @@
+{
+  "name": "QRly â€” QR workspace",
+  "short_name": "QRly",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#F7F7FB",
+  "theme_color": "#7057FF",
+  "description": "Create, scan, and organize QR codes.",
+  "orientation": "portrait-primary",
+  "prefer_related_applications": false,
+  "icons": []
+}
+
